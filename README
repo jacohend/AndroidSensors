@@ -1,0 +1,5 @@
+Aggregates data from sensors and displays using Google Cards UI
+
+Build System: Gradle 
+
+Test APK: Sensors/build/apk/Sensors-debug-unaligned.apk
